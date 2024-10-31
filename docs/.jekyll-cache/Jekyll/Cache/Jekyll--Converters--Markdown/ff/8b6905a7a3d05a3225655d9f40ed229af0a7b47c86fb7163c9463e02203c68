@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-
-<head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/css/styles.css">
-    <link rel="stylesheet" href="/css/custom.css">
-    <!-- <link rel="stylesheet" href="/css/custom2.css"> -->
-    
-    <title>Rapport : Maîtrise d'Eloquent ORM dans Laravel</title>
-</head>
-
-<body>
-    <header>
-        <h1>Rapport : Maîtrise d'Eloquent ORM dans Laravel</h1>
-    </header>
-    <main>
-        <p>Bienvenue dans le rapport sur la maîtrise d’Eloquent ORM dans Laravel. Ce document explore les concepts clés et les pratiques pour gérer efficacement les données en utilisant Laravel.</p>
+I"z<p>Bienvenue dans le rapport sur la maîtrise d’Eloquent ORM dans Laravel. Ce document explore les concepts clés et les pratiques pour gérer efficacement les données en utilisant Laravel.</p>
 
 <h2 id="table-des-matières">Table des matières</h2>
 
@@ -105,8 +86,4 @@
 <h1 id="conclusion">Conclusion</h1>
 <p>Le rapport a exploré les différentes étapes nécessaires pour concevoir et mettre en œuvre une base de données de blog avec Laravel.</p>
 
- <!-- This renders the content of your Markdown files -->
-    </main>
-</body>
-
-</html>
+:ET
