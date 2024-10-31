@@ -1,4 +1,5 @@
 ---
+layout: report_layout
 title: "Introduction"
 order: 1
 chapitre: true
@@ -6,4 +7,4 @@ chapitre: true
 
 # Introduction
 
-This is the introduction to the Laravel report, providing an overview of the contents.
+This section introduces the Laravel report.

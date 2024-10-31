@@ -1,10 +1,10 @@
 ---
-layout: report_layout
-title: "Chapitre 1"
-order: 2
+title: "Chapter 1"
+layout: report_layout  # Ensure this matches your layout file name
 chapitre: true
+order: 1
 ---
 
 # Chapitre 1
 
-In this chapter, we explore the basics of Laravel development and key concepts to get started.
+In this chapter, we explore the basics of Laravel development.

@@ -1,4 +1,5 @@
 ---
+layout: report_layout
 title: "Conclusion"
 order: 3
 chapitre: true
@@ -6,4 +7,4 @@ chapitre: true
 
 # Conclusion
 
-In this conclusion, we summarize the main points discussed and outline next steps for mastering Laravel.
+Here, we conclude the Laravel report.
