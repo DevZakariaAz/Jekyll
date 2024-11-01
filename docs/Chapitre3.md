@@ -4,6 +4,8 @@ layout: report_layout
 chapitre: true
 order: 4
 ---
+<a id="chapitre3"></a>
+
 # Chapitre 3 : Branche fonctionnelle
 ## Cas d'Utilisation de l'Application de Blog
 
